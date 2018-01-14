@@ -1,1 +1,2 @@
 # leetcode
+Leetcode challange.
